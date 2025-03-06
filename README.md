@@ -36,12 +36,13 @@ LAB02-Backend-SpringBoot/
 │── README.md           # Tài liệu dự án
 
 🚀 Hướng dẫn chạy dự án
-1️⃣ Clone repo
+# Clone repository
 
 git clone https://github.com/ttin167/LAB02-Backend-SpringBoot.git
+
 cd LAB02-Backend-SpringBoot
 
-
+# Build và chạy ứng dụng
 
 🔥 API Endpoints
 
